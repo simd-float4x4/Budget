@@ -25,7 +25,7 @@
 
 * 動作確認：iPhone 15 Pro Max（シミュレータ）、iPhone 12（実機）、iPhone SE 3（シミュレータ）
 
-* Minimum Version：17.0
+* Minimum Version：17.0（18.0は動作確認していません）
 
 
 ### アプリ構成
@@ -46,12 +46,10 @@
 
 <br>
 　
-【 追加画面／編集画面（ItemFormView）】
+ 【 追加画面／編集画面（ItemFormView）】
 
 画面としては違う画面ですが、同じ画面を使い回しています。
 
-
-<hr>
 
 ### ビルド時に必要なセットアップ
 
@@ -68,7 +66,7 @@
 
 [参考資料](https://forums.developer.apple.com/forums/thread/734212)
 
-
+* （2024年9月18日追記）　最新バージョンiOS18.0への対応・動作確認はまだ出来ておりません。
 
 ### 更新履歴
 
